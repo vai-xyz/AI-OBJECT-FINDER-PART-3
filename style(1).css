@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+.heading{
+font-size: 23px;
+margin: 0px;
+width: 100%;
+font-family: 'Courier New';
+background-color: lightskyblue;
+color: black;
+font-weight: bolder;
+}
+.note{
+    font-size: 20px;
+    color: blue;
+}
+h2{
+    font-weight: bold;
+    font-family:'Arial';
+    font-size: 18px;
+}
+input{
+    width: 400px;
+    color: brown;
+}
+
+.start,#status,#object_detect{
+    font-size: 15px;
+}
+.start{
+    margin-top: 10px;
+}
+
+canvas{
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 10px;
+    margin-top: 130px;
+}
